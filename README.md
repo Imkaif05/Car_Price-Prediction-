@@ -2,8 +2,8 @@
 **This is a machine learning project of predicting Car prices by using Linear regression.**
 
 📊 Model's Overview 
-. Algorithm : Linear Regression
-. Dataset : car.csv [ https://lnkd.in/g6kwpnwR ]
+1. Algorithm : Linear Regression
+2. Dataset : car.csv [ https://lnkd.in/g6kwpnwR ]
 
 📝 Highlights:
 1. Comprehensive Data Cleaning
@@ -20,7 +20,7 @@
 4. Making a Predictive System : A function that will take input from the user and predicts the price of the car.
 
 📊 Model Evaluation:
-🔍. Achieved an R-squared score of ~0.45 on initial evaluation.
-🔍. Optimized model with a random state variation, reaching a high of ~0.899.
+*. Achieved an R-squared score of ~0.45 on initial evaluation.
+*. Optimized model with a random state variation, reaching a high of ~0.899.
 
 
