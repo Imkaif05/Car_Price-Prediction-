@@ -13,6 +13,10 @@
 5. Exploring Kilometers Driven Impact
 6. Fuel Type, Year, and Company Interplay
 
-
+📊 Model Development:
+1. Utilized one-hot encoding for categorical features.
+2. Developed a Linear Regression Model using scikit-learn.
+3. Employed a pipeline for seamless data preprocessing and model training.
+4. Making a Predictive System : A function that will take input from the user and predicts the price of the car.
 
 
