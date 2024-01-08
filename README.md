@@ -20,7 +20,7 @@
 4. Making a Predictive System : A function that will take input from the user and predicts the price of the car.
 
 📊 Model Evaluation:
-*. Achieved an R-squared score of ~0.45 on initial evaluation.
-*. Optimized model with a random state variation, reaching a high of ~0.899.
+1. Achieved an R-squared score of ~0.45 on initial evaluation.
+2. Optimized model with a random state variation, reaching a high of ~0.899.
 
 
