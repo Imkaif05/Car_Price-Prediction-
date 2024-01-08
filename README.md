@@ -6,7 +6,7 @@
 -. Dataset : car.csv [ https://lnkd.in/g6kwpnwR ]
 
 📝 Highlights:
-1.Comprehensive Data Cleaning
+1. Comprehensive Data Cleaning
 2. Relationship Analysis with Descriptive Statistics
 3. Insights into Company-Price Dynamics
 4. Predictive Power of Manufacturing Year
