@@ -2,8 +2,8 @@
 **This is a machine learning project of predicting Car prices by using Linear regression.**
 
 📊 Model's Overview 
--. Algorithm : Linear Regression
--. Dataset : car.csv [ https://lnkd.in/g6kwpnwR ]
+. Algorithm : Linear Regression
+. Dataset : car.csv [ https://lnkd.in/g6kwpnwR ]
 
 📝 Highlights:
 1. Comprehensive Data Cleaning
